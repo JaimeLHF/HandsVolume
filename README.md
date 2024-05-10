@@ -1,1 +1,1 @@
-<h1>Volume control using your handes and python</h1>
+<h1>Volume control using your hands and python</h1>
