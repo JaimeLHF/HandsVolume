@@ -1,1 +1,1 @@
-<h1>Control your PC volume with your hands</h1>
+<h1>Volume control using your handes and python</h1>
